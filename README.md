@@ -8,4 +8,8 @@ employment in the greater ABQ area.
 
 ## Current Projects
 
+* Hello World: Java console application
+
+* Hello World: Adroid app
+
 ## Links
