@@ -8,9 +8,9 @@ employment in the greater ABQ area.
 
 ## Current Projects
 
-* Hello World: Java console application
+* [Hello World: Java console application](https://github.com/darbach/ddc-hello-world-ij)
 
-* Hello World: Adroid app
+* [Hello World: Adroid app](https://github.com/darbach/android-hello-world)
 
 ## Links
 
