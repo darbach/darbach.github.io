@@ -8,9 +8,12 @@ employment in the greater ABQ area.
 
 ## Current Projects
 
-* [Hello World: Java console application](https://github.com/darbach/ddc-hello-world-ij)
-
-* [Hello World: Adroid app](https://github.com/darbach/android-hello-world)
+* [North Star Sharing](https://github.com/north-star-sharing) - (Android/Spring Boot) A webservice-based astronomy image app for sharing pictures and locating celestial objects.
+* [Dice Crunch](https://github.com/ddc-java-12/personal-android-project-darbach) - (Android) A dice-rolling calculator using a parsing grammar, SQLite, and position sensors to animate rolls.
+* [Roulette](https://github.com/darbach/roulette) - (Android) The classic casino game with animation.
+* [Gallery Service](https://github.com/darbach/gallery-service) - (Spring Boot) Google Sign In and image service.
+* [Gallery](https://github.com/darbach/gallery) - (Android) An Imgur-powered front-end.
+* [Diceware](https://github.com/darbach/diceware) - (Android) Practice project for webservices ([diceware method](https://en.wikipedia.org/wiki/Diceware)) to generate passwords.
 
 ## Links
 
