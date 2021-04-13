@@ -13,8 +13,17 @@ employment in the greater ABQ area.
 * [Gallery](https://github.com/darbach/gallery) - (Android) An Imgur-powered front-end.
 * [Diceware](https://github.com/darbach/diceware) - (Android) Practice project for webservices ([diceware method](https://en.wikipedia.org/wiki/Diceware)) to generate passwords.
 
+## Education
+
+* Bachelor of Science in Software Engineering, University of Phoenix
+* Deep Dive Coding Bootcamp, Central New Mexico Community College
+* Non-degree computer science courses, University of New Mexico
+* Assoc. in Applied Science in Computer Science, Community College of the Air Force
+* Bachelor of Science in Economics with underclassmen emphasis on Computer Science coursework, University of Minnesota, Twin Cities, MN
+
 ## Experience
 
+### Student @ Deep Dive 
 * Currently building a Java Spring-Boot Android full-stack webservice app to share astronomy images and locate stars using the phone’s camera and positional sensors.
 * Built a Java Android calculator app to parse and evaluate a dice rolling grammar using the Shunting-Yard algorithm, and store the roll results in the phone’s SQLite database.
 * Designed entity-relationship diagrams wireframe diagrams for both projects with draw.io.
