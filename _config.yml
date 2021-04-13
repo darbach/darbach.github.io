@@ -1,0 +1,17 @@
+remote_theme: ddc-java/ddc-day
+repository_links:
+  enabled: true
+page_navigator:
+  enabled: true
+titles_from_headings:
+  enabled: false
+
+# Modify the contents below for the specific project.
+
+title: "Daniel Arbach"       # Write the project title inside the quotes.
+description: "A junior Java developer ready to launch a career. "  # Write the project description inside the quotes
+author:                                  # Don't do anything with this line!
+  name: "Daniel Arbach"           # Write your name inside the quotes.
+
+# Do not modify the following line!
+  copyright: true  
