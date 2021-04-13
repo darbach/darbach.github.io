@@ -30,6 +30,11 @@ employment in the greater ABQ area.
 * Customized build files in Gradle and Maven to manage library and module dependencies.
 * Designing annotated entity Java objects for use with Hibernate Room and JPA Object Relational Mappers.
 
+### Computer Programmer @ Air Force Safety Center
+* Performed daily programming maintenance on a Java/Javascript web-based reporting tool and Oracle database backend.
+* Worked on a small development team in which members had to be self-motivated and use critical thinking skills to trouble-shoot software bugs and develop new functionality.
+* Designed and developed a database model for tracking motorcycle rider data among military members. This was the first Air Force-wide system that consolidated information concerning rider safety training across all Air Force bases world-wide.
+
 ## Links
 
 * [Github Profile](https://github.com/darbach)
