@@ -1,5 +1,3 @@
-# Daniel Arbach
-
 ## Introduction
 
 I am a U.S. veteran attending the Deep Dive Coding Bootcamp for Java + Android. Upon
