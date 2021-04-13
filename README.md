@@ -15,6 +15,14 @@ employment in the greater ABQ area.
 * [Gallery](https://github.com/darbach/gallery) - (Android) An Imgur-powered front-end.
 * [Diceware](https://github.com/darbach/diceware) - (Android) Practice project for webservices ([diceware method](https://en.wikipedia.org/wiki/Diceware)) to generate passwords.
 
+## Experience
+
+* Currently building a Java Spring-Boot Android full-stack webservice app to share astronomy images and locate stars using the phone’s camera and positional sensors.
+* Built a Java Android calculator app to parse and evaluate a dice rolling grammar using the Shunting-Yard algorithm, and store the roll results in the phone’s SQLite database.
+* Designed entity-relationship diagrams wireframe diagrams for both projects with draw.io.
+* Customized build files in Gradle and Maven to manage library and module dependencies.
+* Designing annotated entity Java objects for use with Hibernate Room and JPA Object Relational Mappers.
+
 ## Links
 
 * [Github Profile](https://github.com/darbach)
