@@ -4,14 +4,14 @@ I am a U.S. veteran attending the Deep Dive Coding Bootcamp for Java + Android. 
 graduating and passing my Oracle Java industry certification test, I plan to earn
 employment creating software in the greater Albuquerque area.
 
-## Current Projects
+## Projects
 
 * [North Star Sharing](https://github.com/north-star-sharing) - An Android/Spring Boot webservice-based astronomy image app for sharing pictures and locating celestial objects.
-* [Dice Crunch](https://github.com/ddc-java-12/personal-android-project-darbach) - (Android) A dice-rolling calculator using a parsing grammar, SQLite, and position sensors to animate rolls.
-* [Roulette](https://github.com/darbach/roulette) - (Android) The classic casino game with animation.
-* [Gallery Service](https://github.com/darbach/gallery-service) - (Spring Boot) Google Sign In and image service for the Gallery app.
-* [Gallery](https://github.com/darbach/gallery) - (Android) An Imgur-powered front-end.
-* [Diceware](https://github.com/darbach/diceware) - (Android) Practice project for webservices ([diceware method](https://en.wikipedia.org/wiki/Diceware)) to generate passwords.
+* [Dice Crunch](https://github.com/ddc-java-12/personal-android-project-darbach) - An Android dice-rolling calculator using a parsing grammar, SQLite, and position sensors to animate rolls.
+* [Roulette](https://github.com/darbach/roulette) - The classic casino game with animation in an Android app.
+* [Gallery Service](https://github.com/darbach/gallery-service) - An Spring Boot web service service for the Gallery app.
+* [Gallery](https://github.com/darbach/gallery) - An Android image organizing app using Google Sign In.
+* [Diceware](https://github.com/darbach/diceware) - A Java 11 practice project to generate passwords using a web service ([diceware method](https://en.wikipedia.org/wiki/Diceware)) to generate passwords.
 
 ## Skills
 ### Languages
