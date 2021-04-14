@@ -47,7 +47,7 @@ employment creating software in the greater Albuquerque area.
 ## Experience
 
 ### Java & Android Student
-#### Central New Mexico Community College Ingenuity's Deep Dive Coding Bootcamp 
+#### Central New Mexico Community College Ingenuity's Deep Dive Coding Bootcamp, Feb 2021 - Apr 2021
 
 * Built a Java Spring-Boot Android full-stack webservice app to share astronomy images and locate stars using the phone’s camera and positional sensors.
 * Built a Java Android calculator app to parse and evaluate a dice rolling grammar using the Shunting-Yard algorithm, and store the roll results in the phone’s SQLite database.
