@@ -49,7 +49,7 @@ employment creating software in the greater Albuquerque area.
 ### Java & Android Student
 #### Central New Mexico Community College Ingenuity's Deep Dive Coding Bootcamp 
 
-* Currently building a Java Spring-Boot Android full-stack webservice app to share astronomy images and locate stars using the phone’s camera and positional sensors.
+* Built a Java Spring-Boot Android full-stack webservice app to share astronomy images and locate stars using the phone’s camera and positional sensors.
 * Built a Java Android calculator app to parse and evaluate a dice rolling grammar using the Shunting-Yard algorithm, and store the roll results in the phone’s SQLite database.
 * Designed entity-relationship database and user interface wireframe diagrams for both projects with draw.io.
 * Customized build files in Gradle and Maven to manage library and module dependencies.
