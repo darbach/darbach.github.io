@@ -24,14 +24,17 @@ employment creating software in the greater Albuquerque area.
 ### Framework/Libraries
 * Spring Boot REST Web Services
 * Junit5 Parameterized Testing Framework
-* Gradle & Maven Build Managers
 * Hibernate Room Object Relational Mapper (ORM)
 * JPA ORM
+* ReactiveX
+* Retrofit
+* Google GSON
 
 ### Tools
 * IntelliJ Idea
 * SQL and SQLite3
 * Apache Derby (RDBMS)
+* Gradle & Maven Build Managers
 * Git Bash and Github Version Control
 * Javadoc
 * Postman
