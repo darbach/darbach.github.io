@@ -16,29 +16,33 @@ employment creating software in the greater Albuquerque area.
 ## Skills
 ### Languages
 * Java SE 11 & 8
-* Android Layout Materials Design
+* SQL
+* Regex (Regular Expressions)
 * HTML/CSS
 * JSON
-* Regex (Regular Expressions)
+* Android Layout Materials Design
 
-### Framework/Libraries
-* Spring Boot REST Web Services
-* Junit5 Parameterized Testing Framework
-* Hibernate Room Object Relational Mapper (ORM)
-* JPA ORM
+### Framework & Libraries
+* Spring/Spring Boot (Spring MVC, Spring Data, Spring Security)
+* Junit5 Testing Framework
+* Hibernate/JPA Object Relational Mapper (ORM)
+* Room ORM
 * ReactiveX
 * Retrofit
-* Google GSON
+* Google Gson
 
-### Tools
+### Tools & Platforms
 * IntelliJ Idea
-* SQL and SQLite3
+* SQLite3
 * Apache Derby (RDBMS)
 * Gradle & Maven Build Managers
-* Git Bash and Github Version Control
+* Git and Github 
 * Javadoc
 * Postman
-* PuTTy SSH
+* PuTTy
+* Bash
+* JShell
+* Windows Command Prompt
 
 ## Education
 
@@ -50,7 +54,7 @@ employment creating software in the greater Albuquerque area.
 ## Experience
 
 ### Java & Android Student
-#### Central New Mexico Community College Ingenuity's Deep Dive Coding Bootcamp, Feb 2021 - Apr 2021
+#### Central New Mexico Community College Ingenuity's Deep Dive Coding Bootcamp, Feb 2021--Apr 2021
 
 * Built a Java Spring-Boot Android full-stack webservice app to share astronomy images and locate stars using the phone’s camera and positional sensors.
 * Built a Java Android calculator app to parse and evaluate a dice rolling grammar using the Shunting-Yard algorithm, and store the roll results in the phone’s SQLite database.
@@ -60,35 +64,35 @@ employment creating software in the greater Albuquerque area.
 * Created Spring-Boot GET and POST endpoints for REST-ful service endpoints using Spring-Boot annotations.
 
 ### Assistant Manager (Valet)
-#### American Valet, Mar 2019 – Present (furloughed due to COVID-19)
+#### American Valet, Mar 2019-–Present (furloughed due to COVID-19)
 
 * Opening and closing responsibilities include cash accounting ($400-$600 per day), distributing tips to 15 employee operation, setting up and securing equipment, reporting on shift performance. 
 * Handling 30-40 cars per day with no accidents or lost keys.
 * Demonstrated ability to work cashier position, handling simultaneous inbound and outbound customers while maintaining under 6 minute wait time during rush times.
 
 ### Customer Service Representative
-#### Startek, Nov 2014 – Nov 2017
+#### Startek, Nov 2014-–Nov 2017
 * Selected as backup Management Support Team member due to large knowledge base to handle difficult customers with complex issues.
 * Regularly assists over 1,200 customers per month with a wide range of concerns.
 * Constant source of help for other representatives due to extensive knowledge of back-end AT&T systems and trouble-shooting difficult problems.
 
 ### C2 System Administrator
-#### Electronic Systems Center, Oct 2007 – Apr 2012
+#### Electronic Systems Center, Oct 2007-–Apr 2012
 * Provided on-site technical support and one-on-one training for both U.S. and foreign military members in Windows and Unix environments.
 * Performed user-testing and provided feedback on 4 different experimental field communication tools being considered to aid in homeland security disaster response.
 * Performed approximately 120 total hands-on demonstrations of these tools for high ranking VIP groups that included General staff and their civilian equivalents.
 
 ### Computer Programmer
-#### Air Force Safety Center, Sept 2009 – Sept 2010
+#### Air Force Safety Center, Sept 2009-–Sept 2010
 * Performed daily programming maintenance on a Java/Javascript web-based reporting tool and Oracle database backend.
 * Worked on an Agile Scrum development team in which members had to be self-motivated and use critical thinking skills to trouble-shoot software bugs and develop new functionality.
 * Designed and developed a database model for tracking motorcycle rider data among military members. This was the first Air Force-wide system that consolidated information concerning rider safety training across all Air Force bases world-wide.
 
 ### Computer Programmer	Aug 
-#### Air Force Research Laboratory (AFRL), 2003 – Mar 2007
-  • Maintained a desktop software application and the database backend on a financial tracking tool used by 2 out of the 11 AFRL divisions.
-  • Performed customer service for users, mostly in the form of correcting data entry mistakes that were subject to highly complex business rules.
-  • Designed Oracle database for separate financial tracking tool used by an in-house department for specialized business rules.
+#### Air Force Research Laboratory (AFRL), 2003-–Mar 2007
+* Maintained a desktop software application and the database backend on a financial tracking tool used by 2 out of the 11 AFRL divisions.
+* Performed customer service for users, mostly in the form of correcting data entry mistakes that were subject to highly complex business rules.
+* Designed Oracle database for separate financial tracking tool used by an in-house department for specialized business rules.
 
 ## Links
 
